@@ -34,6 +34,11 @@
           PS C:\kafka\bin\windows> .\kafka-topics.bat --version
           3.9.1
      ```
+     <details>
+          <summary>Click to see the image</summary>
+          <img src="Commands-Image.png" alt="Commands" width="600">
+     </details>
+     
 5. Run the producer:
      ```
           PS C:\kafka\bin\windows> .\kafka-console-producer.bat --topic test-topic-1 --bootstrap-server localhost:9092
@@ -42,6 +47,11 @@
           >
           >hello world , i am learing kafka
      ```
+     <details>
+          <summary>Click to see the image</summary>
+          <img src="Producer-Image.png" alt="Producer" width="600">
+     </details>
+     
 7. Run the consumer:
    ```
         PS C:\kafka\bin\windows> .\kafka-console-consumer.bat --topic test-topic-1 --bootstrap-server localhost:9092
@@ -49,5 +59,9 @@
 
           hello world , i am learing kafka
    ```
+   <details>
+          <summary>Click to see the image</summary>
+          <img src="Consumer-Image.png" alt="Consumer" width="600">
+     </details>
 
 

@@ -11,11 +11,9 @@
          .\kafka-server-start.bat C:\kafka\config\kraft\server.properties -> This will start the kafka server in local at localhost:9092
      ```
      <details>
-<summary>Click to see the image</summary>
-
-<img src="Kraft-Server-Image.png" alt="Kraft Server" width="600">
-
-</details>
+          <summary>Click to see the image</summary>
+          <img src="Kraft-Server-Image.png" alt="Kraft Server" width="600">
+     </details>
 
 
      

@@ -11,9 +11,12 @@
          .\kafka-server-start.bat C:\kafka\config\kraft\server.properties -> This will start the kafka server in local at localhost:9092
      ```
      <details>
-          <summary> Click to see the image </summary>
-          ![Kraft Server](Kraft-Server-Image.png) 
-     </details>
+<summary>Click to see the image</summary>
+
+<img src="Kraft-Server-Image.png" alt="Kraft Server" width="600">
+
+</details>
+
 
      
 3. Run the Topic Creation, Describe, etc cmds:

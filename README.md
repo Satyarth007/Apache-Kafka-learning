@@ -10,6 +10,8 @@
          .\kafka-storage.bat format -t <Paste the UUID> -c C:\kafka\config\kraft\server.properties -> This will update you kraft server config files
          .\kafka-server-start.bat C:\kafka\config\kraft\server.properties -> This will start the kafka server in local at localhost:9092
      ```
+     <details><summary> Click to see the image </summary> ![Kraft Server](Kraft Server Image.png ) </details>
+
      
 3. Run the Topic Creation, Describe, etc cmds:
      ```
